@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=700&color=4C8DFF&center=true&vCenter=true&width=680&lines=Twelve+Music" alt="Animated header: Twelve Music">
 </p>
 
-
 A feature-rich Discord music bot built with TypeScript, discord.js v14, Shoukaku, Lavalink, PostgreSQL, and Redis.
 
 The project focuses on reliable audio playback, scalable bot infrastructure, queue management, server configuration, and personal music libraries.
